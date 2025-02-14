@@ -46,7 +46,8 @@ The repository includes the following plots:
    ```bash
    git clone https://github.com/atlonglastkibet/PyData-Capstone-Project.git
    ```
-
+## Presentation
+- Powerpoint slides providing insights from this data is published publically in [Canva](https://www.canva.com/design/DAGe96nDons/86IB9xfBN1c5oA3jwLWMhA/edit?utm_content=DAGe96nDons&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Contributing
 
